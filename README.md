@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Gavin.
 
-  - 🔭 I’m currently working as an SRE in Shopee, Singapore.
+  - 🔭 I’m currently working as an Site Reliability Engineer in Shopee, Singapore.
   - 🖥 Full-stack software developer.
-  - 🌱 I’m currently learning Block Chain and Web 3.
+  - 🌱 I’m currently focusing on Monitoring field including Prometheus/Thanos/VM.
   - 💬 Ask me about anything tech related, I am happy to help;
   - 😄 Pronouns: He / Him
 
@@ -23,18 +23,3 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
-
-<!--
-**GaoJiasheng/GaoJiasheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
