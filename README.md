@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gavin.
 
-  - 🔭 I’m currently working as an Site Reliability Engineer in Shopee, Singapore.
+  - 🔭 I’m currently working as an Site Reliability Engineer in TikTok, Singapore.
   - 🖥 Full-stack software developer.
   - 🌱 I’m currently focusing on Monitoring field including Prometheus/Thanos/VM.
   - 💬 Ask me about anything tech related, I am happy to help;
