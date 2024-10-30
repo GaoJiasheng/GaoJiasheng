@@ -2,7 +2,7 @@
 
   - 🔭 I’m currently working as an Site Reliability Engineer in TikTok, Singapore.
   - 🖥 Full-stack software developer.
-  - 🌱 I’m currently focusing on Monitoring field including Prometheus/Thanos/VM.
+  - 🌱 I’m currently focusing on infrastructure storage direction.
   - 💬 Ask me about anything tech related, I am happy to help;
   - 😄 Pronouns: He / Him
 
